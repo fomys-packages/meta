@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "Library of Fomys",
+      "description": "All component created by Fomys",
+      "description_full": "All component created by Fomys",
+      "author": {
+        "name": "Fomys"
+        "contact": {
+          "web": "https://github.com/Fomys/"
+        },
+      },
+      "identifier": "com.github.fomys.components",
+      "license": "GPL",
+      "maintainer": {
+        "contact": {
+          "web": "https://github.com/Fomys/"
+        },
+        "name": "Fomys"
+      },
+      "resources": {
+        "repository": "https://github.com/fomys-packages/kicad"
+      },
+      "type": "library",
+      "versions": []
+    }
+  ]
+}
