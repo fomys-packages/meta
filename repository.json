@@ -1,0 +1,22 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+  "name": "Kicad Repository of Fomys",
+  "maintainer": {
+      "contact": {
+          "web": "https://github.com/Fomys/"
+      },
+      "name": "Fomys"
+  },
+  "packages": {
+    "sha256": "",
+    "update_time_utc": "",
+    "update_timestamp": 0,
+    "url": ""
+  },
+  "resources": {
+    "sha256": "",
+    "update_time_utc": "",
+    "update_timestamp": 0,
+    "url": ""
+  }
+}
